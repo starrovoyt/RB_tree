@@ -1,2 +1,2 @@
 # RB_tree
-Implementation of red-black tree data structure as a part of homework at HSE. 
+Implementation of the red-black tree data structure as part of an assignment at the National Research University Higher School of Economics.
